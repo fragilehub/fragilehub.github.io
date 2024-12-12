@@ -75,6 +75,11 @@ header::before {
 header h2 {
     margin-left: .5rem;
     font-size: 1.5rem;
+    transition: 1s;
+}
+
+header:hover h2 {
+    transform: scale(110%);
 }
 
 section {
@@ -190,4 +195,15 @@ footer::after, footer::before {
 footer::before {
     filter: blur(1.5rem);
     opacity: .5;
+}
+
+a {
+    color: white;
+    text-decoration: underline;
+    font-weight: bold;
+    transition: 1s;
+}
+
+a:hover {
+    transform: scale(110%);
 }
