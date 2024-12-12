@@ -80,7 +80,7 @@ header h2 {
 section {
     width: 90%;
     height: 64%;
-    background-image: url("images/backgroundimage2.png");
+    background-image: url("../images/backgroundimage2.png");
     background-attachment: fixed;
     margin: auto;
     margin-top: 1rem;
@@ -137,21 +137,21 @@ div label {
 }
 
 #pingu {
-    background-image: url("images/Pingu3D.PNG");
+    background-image: url("../images/Pingu3D.PNG");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: 0 50%;
 }
 
 #xori {
-    background-image: url("images/xoriimage.png");
+    background-image: url("../images/xoriimage.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: 0 50%;
 }
 
 footer {
-    background-image: url("images/backgroundimage.jpg");
+    background-image: url("../images/backgroundimage.jpg");
     width: 90%;
     height: 14%;
     border-radius: 2rem;
