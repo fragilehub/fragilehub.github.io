@@ -160,7 +160,8 @@ footer {
     text-align: center;
     font-size: 1.5rem;
     margin: auto;
-    margin-top: 4rem; 
+    margin-top: 1.5rem; 
+    line-height: 4rem;
 }
 
 footer::after, footer::before {
